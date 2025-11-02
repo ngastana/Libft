@@ -15,8 +15,6 @@ strlen, strchr, strrchr, strncmp, strnstr
 atoi, isalpha, isdigit, isalnum, isascii, isprint, toupper, tolower
 bzero, calloc
 ```
-
-
 ### Part 2 — Additional Functions
 Useful utilities that are not part of libc:
 ```c
@@ -25,7 +23,6 @@ ft_itoa, ft_strmapi, ft_striteri,
 ft_putchar_fd, ft_putstr_fd, ft_putendl_fd, ft_putnbr_fd
 ```
 ### Part 3 — Bonus (Linked Lists)
-If you feel brave 🧗, implement your own linked list utilities:
 ```c
 ft_lstnew, ft_lstadd_front, ft_lstsize, ft_lstlast,
 ft_lstadd_back, ft_lstdelone, ft_lstclear, ft_lstiter, ft_lstmap
